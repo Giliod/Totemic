@@ -26,7 +26,7 @@ tile.redCedarPlank.name=Доски из красного кедра
 tile.redCedarStripped.name=Очищенная древесина красного кедра
 
 # Creative Tab localizations
-itemGroup.Totemic=Totemic
+itemGroup.Totemic=Тотемизм 
 
 totemic.timeState.instant=Мгновенное
 totemic.timeState.overTime=Со временем
@@ -39,7 +39,7 @@ totemic.melodyName.high=Очень обильная мелодия
 totemic.melodyName.maximum=Разрывная мелодия
 
 #Ceremony names
-totemic.ceremony.flute=Ceremony of Flute Imbuation
+totemic.ceremony.flute=Церемония зачарования флейты 
 totemic.ceremony.ghostDance=Призрачный танец
 totemic.ceremony.rainDance=Дождевой танец
 totemic.ceremony.drought=Церемония засухи
@@ -52,7 +52,7 @@ totemicmisc.overTime=В течении времени:
 totemicmisc.capitalFalse=False
 totemicmisc.capitalTrue=True
 totemicmisc.musicSelector=Musical Selectors
-totemicmisc.tipi.cantSleep=You can not sleep in a tipi without being in the open fields
+totemicmisc.tipi.cantSleep=Вы не можете спать в Типи, не будучи в открытой местности
 totemicmisc.tipi.nether=Вы не можете спать в Нижнем мире
 
 #Totempedia Localisations
@@ -81,13 +81,13 @@ totemic.page.cedarTree0=The great Red Cedar Tree, one of the strongest, and most
 totemic.page.cedarTree1=The height of the Red Cedar tree is usually from 6 to 9 blocks, but of course that can vary. The tree drops saplings like normal trees, and performs all other normal sapling behaviour.
 
 totemic.entry.buffaloBasic=Буйволы
-totemic.page.buffaloBasic0=The mighty Buffalo, an animal which is known across the lands for the resources it can grant, and the powers it wields. Buffaloes can be found in the world, or later 'created' through a Ceremony. They are incredibly sturdy and have a very large amount of health.
+totemic.page.buffaloBasic0=Буйволы могучие животные c большим запасом здоровья населявщие эти земли не так давно, их убивали ради шкур и мяса, вы можете вызвать это создание используя церемонию Танец буйволов
 
 totemic.entry.creatingTotems=Столбы тотема
-totemic.page.creatingTotems0=Creating a Totem Pole is a very simple thing to do. First you must create a §1Totem Whittling Knife§0, this will be what you use to carve out your Totem Poles.
+totemic.page.creatingTotems0=Создание тотемного столба, не сложное дело. Сначала Вы должны создать §1Totem Whittling Knife§0, это поможет вам вырезать тотемные столбы.
 
 totemic.entry.instruments=Инструменты
-totemic.page.instruments0=Instruments are a way to create §4Musical Melody§0, which is a type of power that many blocks and systems require, such as the §1Totem Base§0 and even §4Ceremonies§0. When played, all instruments will output their music to the first available nearby block that can accept it. Each instrument will produce §4Musical Melody§0 in very many different ways, with different outputs and ranges.
+totemic.page.instruments0=Инструменты - способ создать §4Musical Melody§0, являющимся некой магической силой нужной  §1Totem Base§0 and even §4Ceremonies§0. Для того чтобы магическая сила не была растрачена напрасно рядом должно стоять основание тотема. Каждый инструмент произведит §4Musical Melody§0 различной мощностью и диапазонами.
 
 totemic.entry.windChime=Музыкальная подвеска
 totemic.page.windChime0=The §1Wind Chime§0 is a instrument that will wave in the wind and periodically produce §4Musical Melody§0 when the wind blows, including all other nearby §1Wind Chimes§0. The §1Wind Chime§0 can not have any blocks below it, and must have a block above it to support it or else it will merely fall off. While the §1Wind Chime§0 does not create a large amount of §4Musical Melody§0, it does not require any intervention by players.
@@ -120,11 +120,11 @@ totemic.entry.drought=Церемония засухи
 totemic.page.drought0=
 totemic.page.drought1=§oNinetails, Not Kurama!§r
 
-totemic.entry.warDance=Танец войны
+totemic.entry.warDance=Танец битвы
 totemic.page.warDance0=The §4War Dance Ceremony§0 is a Ceremony that will heighten your senses for a incoming war and bring the adrenalin to your entire body. After performing it the §4Ceremony§0 will bring the user Speed and Strength for a long time, allowing them to rush to battle.
 totemic.page.warDance1=
 
-totemic.entry.buffaloDance=Танец буйволов Манданов
+totemic.entry.buffaloDance=Танец буйволов
 
 totemic.entry.barkStripper=Собиратель коры
 totemic.page.barkStripper0=The §1Bark Stripper§0 is a way for you to collect the bark from your §1Red Cedar Logs§0 and reveal stripped wood from the tree. To do so, just hold the §1Bark Stripper§0 in your hand, and right click on the log, after a few seconds it will finish stripping the bark from the log, revealing the stripped log and creating the bark.
