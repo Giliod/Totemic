@@ -2,11 +2,11 @@
 
 # Item localizations
 item.totemic:totemicStaff.name=Тотемный посох
-item.totemic:totemWhittlingKnife.name=Нож для строгания тотема
+item.totemic:totemWhittlingKnife.name=Нож по дереву 
 item.totemic:totemWhittlingKnife.display=Нож для строгания тотема (%s)
 item.totemic:totempedia.name=Тотемпедия
 item.totemic:flute.name=Флейта
-item.totemic:fluteInfused.name=Флейта
+item.totemic:fluteInfused.name= Зачарованная флейта
 item.totemic:cedarBark.name=Кора красного кедра
 item.totemic:barkStripper.name=Собиратель коры
 item.totemic:jingleDress.name=Звонкое платье
@@ -28,7 +28,7 @@ tile.redCedarStripped.name=Очищенная древесина красног�
 itemGroup.Totemic=Totemic
 
 #Ceremony names
-totemic.ceremony.flute=Flute Imbuation
+totemic.ceremony.flute=Зачарование флейты
 totemic.ceremony.ghostDance=Призрачный танец
 totemic.ceremony.rainDance=Дождевой танец
 totemic.ceremony.drought=Церемония засухи
@@ -37,7 +37,7 @@ totemic.ceremony.buffaloDance=Танец буйволов Манданов
 
 totemicmisc.musicSelector=Musical Selectors
 totemicmisc.tipi.cantSleep=You cannot sleep in a tipi without being in the open fields
-totemicmisc.tipi.nether=Вы не можете спать в Нижнем мире
+totemicmisc.tipi.nether=Вы не можете спать в Незере 
 
 #Totempedia Localisations
 totemic.gui.lexicon.header=Тотемпедия, руководство для всех Ваших тотемических потребностей.
@@ -68,7 +68,7 @@ totemic.entry.buffaloBasic=Буйволы
 totemic.page.buffaloBasic0=The mighty Buffalo, an animal which is known across the lands for the resources it can grant, and the powers it wields. Buffaloes can be found in the world, or later 'created' through a Ceremony. They are incredibly sturdy and have a very large amount of health.
 
 totemic.entry.creatingTotems=Столбы тотема
-totemic.page.creatingTotems0=Creating a Totem Pole is a very simple thing to do. First you must create a §1Totem Whittling Knife§0, this will be what you use to carve out your Totem Poles.
+totemic.page.creatingTotems0=Для создание тотемов нужен §1Нож по дереву§0, используя его на древесине вы получите тотем.
 
 totemic.entry.instruments=Инструменты
 totemic.page.instruments0=Instruments are a way to create §4Musical Melody§0, which is a type of power that many blocks and systems require, such as the §1Totem Base§0 and even §4Ceremonies§0. When played, all instruments will output their music to the first available nearby block that can accept it. Each instrument will produce §4Musical Melody§0 in very many different ways, with different outputs and ranges.
@@ -96,19 +96,19 @@ totemic.page.performingCeremonies1=To perform a §4Ceremony§0, there are a few 
 totemic.page.performingCeremonies2=While it is in this startup mode, the §1Totem Pole§0 will accept all nearby music and store it. This is called §4Musical Melody§0 and it is what is needed for the §4Ceremonies§0 effect to activate. When the total §4Musical Melody§0 hits the threshold of the §4Ceremonies§0 Melody requirement, it will activate the effect. Each instrument can only be played up to a certain point, so a whole ceremony could not be played with just one instrument.
 totemic.page.performingCeremonies3=Not all §4Ceremonies§0 end instantly after the startup is finished. Instead the effects will last over a certain amount of time after the effect initially starts. Doing the effects will drain the §4Musical Melody§0 over that time. It should be noted that the effects can only go for a certain amount of time and will stop after that time has elapsed.
 
-totemic.entry.rainDance=Церемония дождевого танца
+totemic.entry.rainDance=Церемония призыва дождя 
 totemic.page.rainDance0=The §4Rain Dance Ceremony§0 is a way for you to bring a torrent of rain into the world. If the rain becomes too much to bare, the §4Drought Ceremony§0 is always available, which will remove all rain. Because the effects of this §4Ceremony§0 are so potent, it may be hard to perform.
 totemic.page.rainDance1=§oLike a Politoed§r.
 
 totemic.entry.drought=Церемония засухи
 totemic.page.drought0=
-totemic.page.drought1=§oNinetails, Not Kurama!§r
+totemic.page.drought1=§oГнев Богов!§r
 
-totemic.entry.warDance=Танец войны
+totemic.entry.warDance=Церемония танец битвы
 totemic.page.warDance0=The §4War Dance Ceremony§0 is a Ceremony that will heighten your senses for a incoming war and bring the adrenalin to your entire body. After performing it the §4Ceremony§0 will bring the user Speed and Strength for a long time, allowing them to rush to battle.
 totemic.page.warDance1=
 
-totemic.entry.buffaloDance=Танец буйволов Манданов
+totemic.entry.buffaloDance=Церемония танец призыва буйволов 
 
 totemic.entry.barkStripper=Собиратель коры
 totemic.page.barkStripper0=The §1Bark Stripper§0 is a way for you to collect the bark from your §1Red Cedar Logs§0 and reveal stripped wood from the tree. To do so, just hold the §1Bark Stripper§0 in your hand, and right click on the log, after a few seconds it will finish stripping the bark from the log, revealing the stripped log and creating the bark.
